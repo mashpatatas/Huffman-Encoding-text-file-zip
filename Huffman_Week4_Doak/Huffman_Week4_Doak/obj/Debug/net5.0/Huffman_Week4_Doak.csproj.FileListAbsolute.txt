@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.exe
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.deps.json
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.runtimeconfig.json
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.runtimeconfig.dev.json
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.dll
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\ref\Huffman_Week4_Doak.dll
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\bin\Debug\net5.0\Huffman_Week4_Doak.pdb
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.AssemblyInfo.cs
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.dll
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\ref\Huffman_Week4_Doak.dll
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.pdb
+C:\Users\PC\Documents\VS projects\Huffman_Week4_Doak\Huffman_Week4_Doak\obj\Debug\net5.0\Huffman_Week4_Doak.genruntimeconfig.cache
